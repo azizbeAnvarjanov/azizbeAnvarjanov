@@ -6,4 +6,4 @@
 ###  Languages and tools I work with:
 <code><img src="https://brandslogos.com/wp-content/uploads/thumbs/html5-logo-vector.svg" width="30px" /></code>
 <code><img src="https://i.pinimg.com/originals/eb/7e/20/eb7e20e646f5b7ec9ed4f8f78a5dee8f.png" width="30px" /></code>
-<code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSio8XT2w8a1URaDEpNaUYHz6pTSJL0-jTzLNYuxj2x0hrjNkVvoGPHxhh_2rw8ajHWOD0&usqp=CAU" width="30px" /></code>
+<code><img src="https://sass-lang.com/assets/img/styleguide/seal-color-aef0354c.png" width="30px" /></code>
