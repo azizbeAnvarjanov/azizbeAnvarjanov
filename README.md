@@ -4,4 +4,4 @@
 <a href="https://www.linkedin.com/in/azizbek-anvarjanov-106847233/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30px" /></a>
 
 ###  Languages and tools I work with:
-<code><img src="https://pngimg.com/uploads/telegram/telegram_PNG34.png" width="30px" /></code>
+<code><img src="https://brandslogos.com/wp-content/uploads/thumbs/html5-logo-vector.svg" width="30px" /></code>
