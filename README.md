@@ -9,3 +9,4 @@
 <code><img src="https://sass-lang.com/assets/img/styleguide/seal-color-aef0354c.png" width="35px" /></code>
 <code><img src="https://seeklogo.com/images/B/bootstrap-logo-3C30FB2A16-seeklogo.com.png" width="35px" /></code>
 <code><img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png" width="35px" /></code>
+<code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" width="35px" /></code>
