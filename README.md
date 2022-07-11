@@ -8,6 +8,6 @@
 <code><img src="https://i.pinimg.com/originals/eb/7e/20/eb7e20e646f5b7ec9ed4f8f78a5dee8f.png" width="30px" /></code>
 <code><img src="https://sass-lang.com/assets/img/styleguide/seal-color-aef0354c.png" width="35px" /></code>
 <code><img src="https://seeklogo.com/images/B/bootstrap-logo-3C30FB2A16-seeklogo.com.png" width="35px" /></code>
-<code><img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png" width="30px" /></code>
+<code><img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png" width="35px" /></code>
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" width="35px" /></code>
 <code><img src="https://seeklogo.com/images/G/git-logo-A1D01DDA30-seeklogo.com.png" width="35px" /></code>
