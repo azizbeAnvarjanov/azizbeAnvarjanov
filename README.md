@@ -5,5 +5,5 @@
 
 ###  Languages and tools I work with:
 <code><img src="https://brandslogos.com/wp-content/uploads/thumbs/html5-logo-vector.svg" width="30px" /></code>
-<code><img src="https://w7.pngwing.com/pngs/604/592/png-transparent-css3-cascading-style-sheets-logo-html-beautify-blue-angle-text-thumbnail.png" width="30px" /></code>
+<code><img src="https://toppng.com/uploads/preview/html-css-js-icons-11563328364gmstz4ubs9.png" width="30px" /></code>
 
