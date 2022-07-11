@@ -6,6 +6,6 @@
 ###  Languages and tools I work with:
 <code><img src="https://brandslogos.com/wp-content/uploads/thumbs/html5-logo-vector.svg" width="30px" /></code>
 <code><img src="https://i.pinimg.com/originals/eb/7e/20/eb7e20e646f5b7ec9ed4f8f78a5dee8f.png" width="30px" /></code>
-<code><img src="https://cdn.freelogovectors.net/wp-content/uploads/2019/02/sass-logo.png" width="30px" /></code>
+<code><img src="https://www.pngfind.com/pngs/m/452-4521456_scss-logo-hd-png-download.png" width="30px" /></code>
 
 
