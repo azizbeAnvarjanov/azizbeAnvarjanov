@@ -19,7 +19,7 @@ My main focus is developing scalable systems that automate manual processes, imp
 ## 🛠 Tech Stack
 
 ### Frontend
-React.js • Next.js • TypeScript • JavaScript • Vite • Tailwind CSS • Shadcn UI
+React.js • Next.js • TypeScript • JavaScript • Vite • Tailwind CSS • Shadcn UI • Vercel
 
 ### Backend
 Node.js • Supabase • PostgreSQL • Firebase
@@ -72,14 +72,6 @@ Online learning and testing platform with 5000+ questions, subject-based trainin
 
 ### Tahleel Mobile App
 React Native mobile app for learning, testing, and progress tracking.
-
----
-
-## 📊 GitHub Stats
-
-![Azizbek's GitHub stats](https://github-readme-stats.vercel.app/api?username=azizbeAnvarjanov&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=azizbeAnvarjanov&layout=compact&theme=tokyonight)
 
 ---
 
