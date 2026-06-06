@@ -1,13 +1,107 @@
-### Hi I'm Anvarjanov Azizbek 🖐
-<a href="https://www.instagram.com/azzbek_anvarjanov/"><img src="https://www.pngkey.com/png/full/285-2850733_instagram-logo-instagram-icon-small-png.png" width="30px" /></a>
-<a href="https://t.me/Dev_Coder_7"><img src="https://pngimg.com/uploads/telegram/telegram_PNG34.png" width="30px" /></a>
-<a href="https://www.linkedin.com/in/azizbek-anvarjanov-106847233/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30px" /></a>
+# Hi, I'm Azizbek Anvarjanov 👋
 
-###  Languages and tools I work with:
-<code><img src="https://brandslogos.com/wp-content/uploads/thumbs/html5-logo-vector.svg" width="30px" /></code>
-<code><img src="https://i.pinimg.com/originals/eb/7e/20/eb7e20e646f5b7ec9ed4f8f78a5dee8f.png" width="30px" /></code>
-<code><img src="https://sass-lang.com/assets/img/styleguide/seal-color-aef0354c.png" width="35px" /></code>
-<code><img src="https://seeklogo.com/images/B/bootstrap-logo-3C30FB2A16-seeklogo.com.png" width="35px" /></code>
-<code><img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png" width="35px" /></code>
-<code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" width="35px" /></code>
-<code><img src="https://seeklogo.com/images/G/git-logo-A1D01DDA30-seeklogo.com.png" width="35px" /></code>
+**Full Stack Developer | IT Department Manager | Business Automation Engineer**
+
+I build CRM systems, LMS platforms, healthcare software, mobile apps, and business automation solutions.
+
+---
+
+## 🚀 About Me
+
+I'm a self-taught Full Stack Developer from Namangan, Uzbekistan.
+
+Since 2022, I have been building real-world software solutions for education, healthcare, and business management.
+
+My main focus is developing scalable systems that automate manual processes, improve productivity, and solve real business problems.
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+React.js • Next.js • TypeScript • JavaScript • Vite • Tailwind CSS • Shadcn UI
+
+### Backend
+Node.js • Supabase • PostgreSQL • Firebase
+
+### Mobile
+React Native • Expo
+
+### Automation & Integrations
+n8n • Telegram Bot • AmoCRM • Bitrix24 • Zapier • Make • OnlinePBX • Moi Zvonki
+
+### Tools
+Git • GitHub • Postman • Chrome DevTools • VS Code • Cursor • Windsurf • NPM
+
+### Infrastructure
+Cloudflare • VPS • Docker • Self-hosted Supabase
+
+---
+
+## 💼 What I Build
+
+- CRM Platforms
+- LMS Systems
+- Healthcare Management Software
+- Student Portal Systems
+- Online Testing Platforms
+- Turnstile Attendance Monitoring
+- Mobile Applications
+- Business Automation Workflows
+- Telegram Bots
+- Telephony Integrations
+
+---
+
+## 📌 Featured Projects
+
+### CRM Platform
+Custom CRM system with sales pipelines, dashboard analytics, call recordings, operator statistics, automation, and reports.
+
+### LMS Platform
+University LMS platform with student portal, employee portal, applications system, grading, course materials, testing, and digital library.
+
+### Turnstile Monitoring System
+Hikvision-based attendance monitoring system with daily, weekly, and monthly reports.
+
+### Clinic Management Platform
+Clinic platform for patient registration, doctor reports, financial analytics, services, profit, and margin tracking.
+
+### Tahleel Platform
+Online learning and testing platform with 5000+ questions, subject-based training, notes, dashboard, and ranking system.
+
+### Tahleel Mobile App
+React Native mobile app for learning, testing, and progress tracking.
+
+---
+
+## 📊 GitHub Stats
+
+![Azizbek's GitHub stats](https://github-readme-stats.vercel.app/api?username=azizbeAnvarjanov&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=azizbeAnvarjanov&layout=compact&theme=tokyonight)
+
+---
+
+## 🎯 Current Focus
+
+- AI-assisted development
+- Supabase architecture
+- CRM & LMS systems
+- Automation workflows
+- Mobile app development
+- Self-hosted infrastructure
+
+---
+
+## 🌍 Portfolio
+
+**Website:** anvarjanov.uz
+
+---
+
+## 📫 Contact Me
+
+**Email:** azizbeanvarjanov@gmail.com  
+**Location:** Namangan, Uzbekistan  
+**LinkedIn:** linkedin.com/in/azizbek-anvarjanov  
